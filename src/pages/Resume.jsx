@@ -40,7 +40,7 @@ function Resume() {
           <div className='flex flex-col items-center justify-center mt-1 gap-1'>
             <h1 className='text-4xl  font-bold'>Shriram Muwel</h1>
             <p className='border-b border-b-gray-700 font-sm'>Indore, Madhya Pradesh, India</p>
-            <ul className='flex items-center justify-center gap-5 font-sm'>
+            <ul className='flex flex-wrap items-center justify-center gap-5 font-sm'>
               <li><Link to={'tel:+918770699454'}>+91 8770699454</Link></li>
               <li><Link to={'mailto:shrirammuwel02017@gmail.com'}>shrirammuwel02017@gmail.com</Link></li>
               <li><Link to={'https://github.com/Rammuwel'}>Github</Link></li>

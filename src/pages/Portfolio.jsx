@@ -38,10 +38,10 @@ function Portfolio() {
           </div>
         </div>
         
-        <div className="p-6">
+        <div className="">
       <h1 className="text-3xl font-bold mb-4">Projects</h1>
 
-      <div className="flex gap-4 mb-6">
+      <div className="flex gap-4 mb-6 flex-wrap items-center">
         {categories.map((cat) => (
           <button
             key={cat}
