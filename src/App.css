@@ -1,0 +1,13 @@
+@media print {
+    div {
+      background-color: white !important;
+      color: black !important;
+    }
+
+    ul li {
+        color: rgb(31, 28, 28);
+    }
+    p{
+        color: rgb(31, 28, 28);
+    }
+  }
