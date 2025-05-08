@@ -44,7 +44,7 @@ function Resume() {
               <li><Link to={'tel:+918770699454'}>+91 8770699454</Link></li>
               <li><Link to={'mailto:shrirammuwel02017@gmail.com'}>shrirammuwel02017@gmail.com</Link></li>
               <li><Link to={'https://github.com/Rammuwel'}>Github</Link></li>
-              <li><Link to={'https://leetcode.com/u/mOKdEIQaxO/'}>Leadcode</Link></li>
+              <li><Link to={'https://leetcode.com/u/mOKdEIQaxO/'}>Leetcode</Link></li>
               <li><Link to={'https://www.linkedin.com/in/shriram-muwel-7318311bb/'}>LinkedIn</Link></li>
               <li><Link to={'https://myportfolio-liart-eight.vercel.app/'}>Portfolio</Link></li>
             </ul>
@@ -94,7 +94,7 @@ function Resume() {
             <h1 className=' border-b-2 py-1 border-b-gray-600 text-lg font-bold'>Skills</h1>
             <div className='pl-5'>
               <ul className=' list-disc flex items-center flex-wrap gap-x-10'>
-                <li>Java Script</li>
+                <li>JavaScript</li>
                 <li>DSA</li>
                 <li>React</li>
                 <li>NodeJs</li>
@@ -111,7 +111,7 @@ function Resume() {
           </div>
 
           <div className=''>
-            <h1 className=' border-b-2 py-1 border-b-gray-600  text-lg font-bold'>Intership and training</h1>
+            <h1 className=' border-b-2 py-1 border-b-gray-600  text-lg font-bold'>Internship and training</h1>
             <div className='flex flex-col gap-1'>
               <div className='flex items-center justify-between border-b border-b-gray-900'>
                 <div className='flex flex-col gap-1 '>
@@ -188,7 +188,7 @@ function Resume() {
 
               <div className='flex items-center justify-between border-b border-b-gray-900'>
                 <div className='flex flex-col gap-1 pt-1'>
-                  <h2 className='text-lg font-semibold'><a href="https://github.com/Rammuwel/prescripto">Prescripto-(Doctor Appointment System)</a> </h2>
+                  <h2 className='text-lg font-semibold'><a href="https://github.com/Rammuwel/prescripto">Prescripto (Doctor Appointment System)</a> </h2>
                   <p className='text-gray-400'>A complete appointment booking system for doctors and patients with real-time scheduling, secure payments via Razorpay, and image/document upload using Cloudinary. </p>
                 </div>
                 <div className='flex flex-col gap-1 pt-1'>
