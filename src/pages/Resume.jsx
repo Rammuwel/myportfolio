@@ -45,7 +45,7 @@ function Resume() {
               <li><Link to={'mailto:shrirammuwel02017@gmail.com'}>shrirammuwel02017@gmail.com</Link></li>
               <li><Link to={'https://github.com/Rammuwel'}>Github</Link></li>
               <li><Link to={'https://leetcode.com/u/mOKdEIQaxO/'}>Leadcode</Link></li>
-              <li><Link to={'myportfolio-7keh3i6sw-rammuwels-projects.vercel.app'}>Portfolio</Link></li>
+              <li><Link to={'https://myportfolio-liart-eight.vercel.app/'}>Portfolio</Link></li>
             </ul>
           </div>
           <div className=''>
