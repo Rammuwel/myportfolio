@@ -97,10 +97,7 @@ export const projects = [
       link: "https://rammuwel.github.io/foodybaba/", 
       gitLink: "https://github.com/Rammuwel/foodybaba", 
     },
-    
-    
-  
-  ];
+ ];
   
 
 
