@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../assets/portfolio-img.png'
+import profile from '../assets/image (5).png'
 import { projects, skills } from '../assets/data.js'
 import { Link } from 'react-router-dom'
 import { useState } from "react";

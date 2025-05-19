@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import { Link } from 'react-router-dom'
-import profile from '../assets/portfolio-img.png'
+import profile from '../assets/image (5).png'
 import ReactToPrint, { useReactToPrint } from 'react-to-print';
 import { FaGithub } from "react-icons/fa";
 import { CgMail } from "react-icons/cg";

@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from '../assets/portfolio-img.png'
+import profile from '../assets/image (5).png'
 import { projects, skills } from '../assets/data.js'
 import { Link } from 'react-router-dom'
 
@@ -34,7 +34,7 @@ function Home() {
                     <div className='flex flex-col md:flex-row items-start gap-5 mt-3'>
 
                         {/* Left Side - Image */}
-                        <div className='w-full md:w-1/3 flex justify-center'>
+                        <div className='w-full  md:w-1/3 flex justify-center'>
                             <div className='overflow-hidden border-4 border-gray-700'>
                                 <img src={profile} alt="Shriram Muwel" className='w-full h-full object-cover' />
                             </div>

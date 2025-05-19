@@ -1,4 +1,4 @@
-import profile from '../assets/portfolio-img.png'
+import profile from '../assets/image (5).png'
 import emailjs from 'emailjs-com';
 import { useRef } from 'react';
 import { toast } from 'react-toastify';
